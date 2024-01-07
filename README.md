@@ -5,6 +5,8 @@ Streaming Movie Website with Autoembed Functionality
 
 Welcome to the Mov.mybox.cafe project, a streaming movie website that offers a high-quality watching experience. This project is built using WordPress technology and relies on the DooPlay theme, providing a responsive and dynamic design.
 
+![Halaman Utama Mov.mybox.cafe](https://mov.mybox.cafe/wp-content/themes/dooplay/assets/img/homemov.png)
+
 ## Technologies Used
 - **WordPress:** The main platform for content management.
 - **PHP:** The programming language used in development.
