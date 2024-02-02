@@ -13,7 +13,7 @@ Welcome to the Mov.mybox.cafe project, a streaming movie website that offers a h
 ## Links
 - [Mov.mybox.cafe Website](https://mov.mybox.cafe/)
 
-  ## 🌐 Connect with Me
+## 🌐 Connect with Me
 - WhatsApp: [+6281295657833](tel:+6281295657833)
 - Email: [nexagency88@gmail.com](mailto:nexagency88@gmail.com)
 
