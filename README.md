@@ -17,3 +17,9 @@ Welcome to the Mov.mybox.cafe project, a streaming movie website that offers a h
 - [Mov.mybox.cafe Website](https://mov.mybox.cafe/)
 
 Thank you for visiting this project. Feel free to explore the website and enjoy a delightful streaming experience!
+
+![Mov.mybox.cafe Dashboard](https://raw.githubusercontent.com/NexDesign-Agency/Dooplay-Autoembed-Website/main/movie1.png)
+- **Mov.mybox.cafe Dashboard**
+
+![Mov.mybox.cafe single post](https://raw.githubusercontent.com/NexDesign-Agency/Dooplay-Autoembed-Website/main/movie2.png)
+- **Mov.mybox.cafe single post**
